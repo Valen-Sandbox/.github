@@ -6,7 +6,7 @@ You can find our Discord server [here](https://discord.gg/xSqMRgjcpq) and our St
 Enjoy!
 
 ## Contribution
-PRs are greatly appreciated! In general, please use [this glualint config](TODO) for your linter when editing any repositories under this organization unless one is already included in the project you're editing. Also, please send your improvements upstream so that more people can benefit from them, and I will try to do the same where possible. Thank you!
+PRs are greatly appreciated! In general, please use [this glualint config](https://raw.githubusercontent.com/Valen-Sandbox/.github/main/.glualint.json) for your linter when editing any repositories under this organization unless one is already included in the project you're editing. Also, please send your improvements upstream so that more people can benefit from them, and I will try to do the same where possible. Thank you!
 
 ---
 
