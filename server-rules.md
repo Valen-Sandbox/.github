@@ -34,7 +34,7 @@ These rules are placed here for your convenience in case you want to take a look
 
 ### Air-Based Rules
 14.	Aircraft must weigh no more than 10,999kg while fully loaded.
-15.	Aircraft should only use the Fin tool or Wiremod for mobility (within reason).
+15.	Aircraft should only use the Fin tool, applyforce, or ACF entities for mobility (within reason).
 16.	Each prop of aircraft armor should have no more than a 20mm thickness and 50 health.
 17.	The seat of an aircraft should be located in (and move with) the front of the vehicle.
 18.	Aircraft must have a baseplate that is at minimum 36 x 60 units in size.
