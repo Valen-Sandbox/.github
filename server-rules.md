@@ -17,7 +17,7 @@ These rules are placed here for your convenience in case you want to take a look
 
 ### General Rules
 1.	ACF components cannot clip with anything else.
-2.	No non-ACF powered mobility for wheeled vehicles. (Ex. applyforce, Wiremod, thrusters, etc.)
+2.	No non-ACF powered mobility for wheeled vehicles. (Ex. applyforce/downforce, Wiremod, thrusters, etc.)
 3.	Nothing that can immediately force your vehicle to a stop is allowed. (Ex. freezer brakes, weld to world brakes, etc.)
 4.	No part of your vehicle should be hidden or obscured from being seen via any means.
 5.	Excluding internal armoring and vehicle details, a vehicle's external armor should have its actual angles and locations match its visible angles and locations.
