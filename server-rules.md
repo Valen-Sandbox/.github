@@ -24,11 +24,11 @@ These rules are placed here for your convenience in case you want to take a look
 6.	Fuel and ammo are the only ACF components that are allowed to be outside of your vehicle. No other ACF components should be floating away from or around your vehicle.
 7.	Mechs should follow all air-based rules.
 8.	Crew entities must be used in all vehicles.
-9.	Staff members have the final say in whether a vehicle is illegal or not, even if its violation(s) are ambiguous and/or not explicitly written in these rules.
+9.	Turrets must utilize ACF turret entities.
+10.	Staff members have the final say in whether a vehicle is illegal or not, even if its violation(s) are ambiguous and/or not explicitly written in these rules.
 
 ### Ground-Based Rules
-10.	Ground-based vehicles must weigh no more than 60,999kg.
-11.	Turrets must utilize ACF turret entities.
+11.	Ground-based vehicles must weigh no more than 60,999kg.
 12.	Each prop of internal armoring (any armor that cannot be seen from the outside of the vehicle) should have no more than a 20mm thickness and 50 health.
 
 ### Air-Based Rules
