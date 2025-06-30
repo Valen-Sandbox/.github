@@ -22,23 +22,20 @@ These rules are placed here for your convenience in case you want to take a look
 4.	No part of your vehicle should be hidden or obscured from being seen via any means.
 5.	Excluding internal armoring and vehicle details, a vehicle's external armor should have its actual angles and locations match its visible angles and locations.
 6.	Fuel and ammo are the only ACF components that are allowed to be outside of your vehicle. No other ACF components should be floating away from or around your vehicle.
-7.	The baseplate of your vehicle should not be invincible via any means.
-8.	Mechs should follow all air-based rules.
+7.	Mechs should follow all air-based rules.
+8.	Crew entities must be used in all vehicles.
 9.	Staff members have the final say in whether a vehicle is illegal or not, even if its violation(s) are ambiguous and/or not explicitly written in these rules.
 
 ### Ground-Based Rules
 10.	Ground-based vehicles must weigh no more than 60,999kg.
-11.	Turrets can turn at a maximum of 80 degrees per second.
+11.	Turrets must utilize ACF turret entities.
 12.	Each prop of internal armoring (any armor that cannot be seen from the outside of the vehicle) should have no more than a 20mm thickness and 50 health.
-13.	Between the turret and the hull, ground vehicles are required to have an unobstructed hole that matches or is slightly smaller than the width of the baseplate.
 
 ### Air-Based Rules
-14.	Aircraft must weigh no more than 10,999kg while fully loaded.
-15.	Aircraft should only use the Fin tool, applyforce, or ACF entities for mobility (within reason).
-16.	Each prop of aircraft armor should have no more than a 20mm thickness and 50 health.
-17.	The seat of an aircraft should be located in (and move with) the front of the vehicle.
-18.	Aircraft must have a baseplate that is at minimum 36 x 60 units in size.
+13.	Aircraft must weigh no more than 10,999kg while fully loaded.
+14.	Aircraft should only use the Fin tool, applyforce, or ACF entities for mobility (within reason).
+15.	Each prop of aircraft armor should have no more than a 20mm thickness and 50 health.
 
 ### Handheld Rules
-19.	Handhelds must be no more than 20mm OR hold a singular missile.
-20.	When using a handheld, ammo must be exposed and on your person at all times.
+16.	Handhelds must be no more than 20mm OR hold a singular missile.
+17.	When using a handheld, ammo must be exposed and on your person at all times.
