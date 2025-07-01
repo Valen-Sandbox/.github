@@ -11,7 +11,8 @@ These rules are placed here for your convenience in case you want to take a look
 7. Don't abuse noclip to get into the skybox, other players' bases, or other places that you should not be in.
 8. Spawnkilling is allowed, but excessively spawnkilling players is not.
 9. Crashing or attempting to crash the server will result in an immediate ban.
-10. Have fun!
+10. DakTank builds should obey the following ruleset: https://docs.google.com/document/d/e/2PACX-1vSMgw3P3Cp7Ahdg5gFb1bJXdG6d4wGIUjeh3KmRv8ZwB6XoDKgKzh0vVETnOzxTpVTQ3pIfHQWhs7wu/pub
+11. Have fun!
 
 ## ACF Rules
 
