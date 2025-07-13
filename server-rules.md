@@ -26,17 +26,15 @@ These rules are placed here for your convenience in case you want to take a look
 7.	Mechs should follow all air-based rules.
 8.	Crew entities must be used in all vehicles.
 9.	Turrets must utilize ACF turret entities.
-10.	Staff members have the final say in whether a vehicle is illegal or not, even if its violation(s) are ambiguous and/or not explicitly written in these rules.
+10.	Handheld ACF dupes are not allowed.
+11.	Emplacements should follow all ground-based rules.
+12.	Staff members have the final say in whether a vehicle is illegal or not, even if its violation(s) are ambiguous and/or not explicitly written in these rules.
 
 ### Ground-Based Rules
-11.	Ground-based vehicles must weigh no more than 60,999kg.
-12.	Each prop of internal armoring (any armor that cannot be seen from the outside of the vehicle) should have no more than a 20mm thickness and 50 health.
+13.	Ground-based vehicles must weigh no more than 60,999kg.
+14.	Each prop of internal armoring (any armor that cannot be seen from the outside of the vehicle) should have no more than a 20mm thickness and 50 health.
 
 ### Air-Based Rules
-13.	Aircraft must weigh no more than 10,999kg while fully loaded.
-14.	Aircraft should only use the Fin tool, applyforce, or ACF entities for mobility (within reason).
-15.	Each prop of aircraft armor should have no more than a 20mm thickness and 50 health.
-
-### Handheld Rules
-16.	Handhelds must be no more than 20mm OR hold a singular missile.
-17.	When using a handheld, ammo must be exposed and on your person at all times.
+15.	Aircraft must weigh no more than 10,999kg while fully loaded.
+16.	Aircraft should only use the Fin tool, applyforce, or ACF entities for mobility (within reason).
+17.	Each prop of aircraft armor should have no more than a 20mm thickness and 50 health.
