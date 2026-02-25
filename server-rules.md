@@ -5,7 +5,7 @@ These rules are placed here for your convenience in case you want to take a look
 1. No prop pushing or prop killing using the Physics Gun. Using the Gravity Gun to prop kill is allowed.
 2. Don't spam in any form.
 3. Don't block off other players' bases or spawnpoints using props.
-4. Don't abuse addons or unintended behaviors in the server. (Ex. Wiremod/ACF abuse, exploits, etc.)
+4. Don't abuse addons or unintended behaviors in the server. (Ex. Wiremod/ACF/buildmode abuse, exploits, etc.)
 5. Don't use cheats of any kind.
 6. Be respectful to other players and staff. Hate speech will not be tolerated.
 7. Don't abuse noclip to get into the skybox, other players' bases, or other places that you should not be in.
