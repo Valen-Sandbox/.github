@@ -2,17 +2,17 @@
 These rules are placed here for your convenience in case you want to take a look at them outside the server itself.
 
 ## General Server Rules
-1. No prop pushing or prop killing using the Physics Gun. Using the Gravity Gun to prop kill is allowed.
-2. Don't spam in any form.
-3. Don't block off other players' bases or spawnpoints using props.
-4. Don't abuse addons or unintended behaviors in the server. (Ex. Wiremod/ACF/buildmode abuse, exploits, etc.)
-5. Don't use cheats of any kind.
-6. Be respectful to other players and staff. Hate speech will not be tolerated.
-7. Don't abuse noclip to get into the skybox, other players' bases, or other places that you should not be in.
-8. Spawnkilling is allowed, but excessively spawnkilling players is not.
-9. Crashing or attempting to crash the server will result in an immediate ban.
-10. DakTank builds should obey the following ruleset: https://docs.google.com/document/d/e/2PACX-1vSMgw3P3Cp7Ahdg5gFb1bJXdG6d4wGIUjeh3KmRv8ZwB6XoDKgKzh0vVETnOzxTpVTQ3pIfHQWhs7wu/pub
-11. Have fun!
+1.	No prop pushing or prop killing using the Physics Gun. Using the Gravity Gun to prop kill is allowed.
+2.	Don't spam in any form.
+3.	Don't block off other players' bases or spawnpoints using props.
+4.	Don't abuse addons or unintended behaviors in the server. (Ex. Wiremod/ACF/buildmode abuse, exploits, etc.)
+5.	Don't use cheats of any kind.
+6.	Be respectful to other players and staff. Hate speech will not be tolerated.
+7.	Don't abuse noclip to get into the skybox, other players' bases, or other places that you should not be in.
+8.	Spawnkilling is allowed, but excessively spawnkilling players is not.
+9.	Crashing or attempting to crash the server will result in an immediate ban.
+10.	DakTank builds should obey the following ruleset: https://docs.google.com/document/d/e/2PACX-1vSMgw3P3Cp7Ahdg5gFb1bJXdG6d4wGIUjeh3KmRv8ZwB6XoDKgKzh0vVETnOzxTpVTQ3pIfHQWhs7wu/pub
+11.	Have fun!
 
 ## ACF Rules
 
@@ -29,13 +29,14 @@ These rules are placed here for your convenience in case you want to take a look
 10.	Handheld ACF dupes are not allowed.
 11.	Emplacements should follow all ground-based rules.
 12.	Armed contraptions must be controlled by a player seated directly within the vehicle.
-13.	Staff members have the final say in whether a vehicle is illegal or not, even if its violation(s) are ambiguous and/or not explicitly written in these rules.
+13.	Don't programmatically modify ACF components or armor during combat.
+14.	Staff members have the final say in whether a vehicle is illegal or not, even if its violation(s) are ambiguous and/or not explicitly written in these rules.
 
 ### Ground-Based Rules
-14.	Ground-based vehicles must weigh no more than 60,999kg.
-15.	Each prop of internal armoring (any armor that cannot be seen from the outside of the vehicle) should have no more than a 20mm thickness and 50 health.
+15.	Ground-based vehicles must weigh no more than 60,999kg.
+16.	Each prop of internal armoring (any armor that cannot be seen from the outside of the vehicle) should have no more than a 20mm thickness and 50 health.
 
 ### Air-Based Rules
-16.	Aircraft must weigh no more than 10,999kg while fully loaded.
-17.	Aircraft should only use the Fin tool, applyforce, or ACF entities for mobility (within reason).
-18.	Each prop of aircraft armor should have no more than a 20mm thickness and 50 health.
+17.	Aircraft must weigh no more than 10,999kg while fully loaded.
+18.	Aircraft should only use the Fin tool, applyforce, or ACF entities for mobility (within reason).
+19.	Each prop of aircraft armor should have no more than a 20mm thickness and 50 health.
