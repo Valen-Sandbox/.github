@@ -15,28 +15,16 @@ These rules are placed here for your convenience in case you want to take a look
 11.	Have fun!
 
 ## ACF Rules
-
-### General Rules
 1.	ACF components cannot clip with anything else.
 2.	No non-ACF powered mobility for wheeled vehicles. (Ex. applyforce/downforce, Wiremod, thrusters, etc.)
-3.	Nothing that can immediately force your vehicle to a stop is allowed. (Ex. freezer brakes, weld to world brakes, etc.)
-4.	No part of your vehicle should be hidden or obscured from being seen via any means.
-5.	Excluding internal armoring and vehicle details, a vehicle's external armor should have its actual angles and locations match its visible angles and locations.
-6.	Fuel and ammo are the only ACF components that are allowed to be outside of your vehicle. No other ACF components should be floating away from or around your vehicle.
-7.	Mechs should follow all air-based rules.
+3.	Aircraft and mechs should only use the Fin tool, applyforce, or ACF entities for mobility (within reason).
+4.	Nothing that can immediately force your vehicle to a stop is allowed. (Ex. freezer brakes, weld to world brakes, etc.)
+5.	No part of your vehicle should be hidden or obscured from being seen via any means.
+6.	Excluding internal armoring and vehicle details, a vehicle's external armor should have its actual angles and locations match its visible angles and locations.
+7.	Fuel and ammo are the only ACF components that are allowed to be outside of your vehicle. No other ACF components should be floating away from or around your vehicle.
 8.	Crew entities must be used in all vehicles.
 9.	Turrets must utilize ACF turret entities.
 10.	Handheld ACF dupes are not allowed.
-11.	Emplacements should follow all ground-based rules.
-12.	Armed contraptions must be controlled by a player seated directly within the vehicle.
-13.	Don't programmatically modify ACF components or armor during combat.
-14.	Staff members have the final say in whether a vehicle is illegal or not, even if its violation(s) are ambiguous and/or not explicitly written in these rules.
-
-### Ground-Based Rules
-15.	Ground-based vehicles must weigh no more than 60,999kg.
-16.	Each prop of internal armoring (any armor that cannot be seen from the outside of the vehicle) should have no more than a 20mm thickness and 50 health.
-
-### Air-Based Rules
-17.	Aircraft must weigh no more than 10,999kg while fully loaded.
-18.	Aircraft should only use the Fin tool, applyforce, or ACF entities for mobility (within reason).
-19.	Each prop of aircraft armor should have no more than a 20mm thickness and 50 health.
+11.	Armed contraptions must be controlled by a player seated directly within the vehicle.
+12.	Don't programmatically modify ACF components or armor during combat.
+13.	Staff members have the final say in whether a vehicle is illegal or not, even if its violation(s) are ambiguous and/or not explicitly written in these rules.
